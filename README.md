@@ -1,2 +1,2 @@
 # visualize-european-soccer-db
-Analyze European soccer players &amp; matches in SQLite database on Kaggle in Python
+Explore a SQLite database on Kaggle using Analytics and Visualization modules in Python
